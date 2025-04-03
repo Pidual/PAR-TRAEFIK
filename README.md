@@ -1,7 +1,7 @@
 # PAR-TRAEFIK
 1. Primer paso clonar el repositorio
    ![image](https://github.com/user-attachments/assets/06eaf906-96a5-4a8b-9add-54a5b15b0d27)
-2. En la misma linea de comandos escribir 'docker compose up -d --build'
+2. En la misma linea de comandos escribir 'docker compose up -d --build' (ASEGURARSE DE QUE ESTE METIDO DENTRO DE LA CARPETA "PAR-TRAEFIK")
 ![image](https://github.com/user-attachments/assets/9599945e-abb1-4c61-8b18-d05a69284c05)
 Deberia responder
 ![image](https://github.com/user-attachments/assets/898c615e-3ad9-45f2-b17b-433268d06574)
